@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building efficient algorithms in C++ and automating data tasks with Python.<br><br>👯 I’m looking to collaborate on: Open-source projects involving Python scripting or performance-critical C++ applications.<br><br>🤝 I’m looking for help with: Mastering advanced Data Structures and Algorithms (DSA).<br><br>🌱 I’m currently learning: Modern C++ standards (C++20) and Django for web development.<br><br>💬 Ask me about: The differences between Python and C++, or why I love problem-solving.<br><br>⚡ Fun fact: I spend half my time writing Python to save time, and the other half debugging C++ pointers.
+🔭 I’m currently working on: Building efficient algorithms in C++ and automating data tasks with Python.<br>👯 I’m looking to collaborate on: Open-source projects involving Python scripting or performance-critical C++ applications.<br>🤝 I’m looking for help with: Mastering advanced Data Structures and Algorithms (DSA).<br>🌱 I’m currently learning: Modern C++ standards (C++20) and Django for web development.<br>💬 Ask me about: The differences between Python and C++, or why I love problem-solving.<br>⚡ Fun fact: I spend half my time writing Python to save time, and the other half debugging C++ pointers.
 
 
 ## 🌐 Socials:
